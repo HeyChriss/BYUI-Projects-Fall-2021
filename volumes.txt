@@ -1,0 +1,7 @@
+
+2021-09-23 22:18:23.574492 BMW
+width: 185.0,ratio: 50.0,diameter: 14.0,volume: 24.090081969909246 
+Phone number is: 2082064422
+2021-09-23 22:52:36.075458 Infinity 
+width: 200.0,ratio: 45.0,diameter: 10.0,volume: 19.45 
+Phone number is: 2568594545
